@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tradoshi": {
+      "type": "http",
+      "url": "https://tradoshi.com/mcp"
+    }
+  }
+}

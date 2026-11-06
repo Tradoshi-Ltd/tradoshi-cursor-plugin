@@ -1,0 +1,16 @@
+{
+  "name": "tradoshi",
+  "displayName": "Tradoshi",
+  "version": "1.0.0",
+  "description": "Sourced ratings of trading schools and prop firms, trading journal market figures and product facts, from the Tradoshi MCP server. Read-only, no API key.",
+  "author": {
+    "name": "Tradoshi",
+    "email": "contact@tradoshi.com"
+  },
+  "homepage": "https://tradoshi.com/en/developers",
+  "repository": "https://github.com/Tradoshi-Ltd/tradoshi-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["trading", "prop-firms", "trading-schools", "rankings", "trading-journal", "finance", "fintech", "mcp"],
+  "skills": "./skills/"
+}
